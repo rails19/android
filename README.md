@@ -1,2 +1,2 @@
-# android-
+# android
 React Native app
